@@ -1,0 +1,69 @@
+body   {
+font-family:  Geneva, Tahoma, sans-serif;
+padding: 10px;
+background: fixed;
+}
+
+header { 
+    background-color: slategray;
+    text-align: center;
+    padding: 25px;
+    font-size: 200%;
+    border: darkslategrey;
+    color: white;
+}
+.nav_menu {
+        overflow: hidden;
+        background-color: slategray;
+       
+    }
+.nav_menu a {
+        float: left;
+        display: block;
+        color: white;
+        background-color: slategray;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        
+    }
+.nav_menu a:hover {
+        background-color: white;
+        color: black;
+}
+.layout-container {
+    width:100%;
+ }
+ main {
+   width: 75%;
+   float:left;
+ }
+ aside {
+   width:25%;
+   float:left;
+   text-align: center;
+ }
+ .layout-container:after {
+    clear:both;
+ }
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+
+}
+
+footer{
+    background-color: slategray;
+    text-align: center;
+    padding: 15px;
+    font-size: 100%;
+    border: darkslategrey;
+    color: white;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
