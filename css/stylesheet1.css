@@ -1,5 +1,5 @@
 body   {
-font-family:  Geneva, Tahoma, sans-serif;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 padding: 10px;
 background: fixed;
 }
@@ -25,7 +25,6 @@ header {
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
-        
     }
 .nav_menu a:hover {
         background-color: white;
@@ -64,6 +63,3 @@ footer{
     border: darkslategrey;
     color: white;
 }
-
-/* Create two unequal columns that floats next to each other */
-/* Left column */
