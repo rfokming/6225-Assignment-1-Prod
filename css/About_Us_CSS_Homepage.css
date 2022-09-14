@@ -38,11 +38,11 @@ body   {
   display: flex;
   grid-template-columns: auto auto;
   gap: 10px;
-    background-color: slategray;
+    background-color: white;
 }
 
 .grid-container > div {
-  background-color: slategray;
+  background-color: white;
   grid-template-columns: auto auto;
   margin:10px;
   padding: 20px;
@@ -92,11 +92,11 @@ body   {
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
-    background-color: slategray;
+    background-color: white;
   }
   
   .flex-container > div {
-    background-color: slategray
+    background-color: white;
     width: 100px;
     margin: 10px;
     text-align: center;
