@@ -2,9 +2,8 @@ body   {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
     background: fixed;
-    color: slategray;
     }
-
+    
     header { 
         background-color: slategray;
         text-align: center;
