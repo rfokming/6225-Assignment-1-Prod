@@ -117,7 +117,21 @@
     color: blue
 }
 
+.list-container {
+  display:flex;
+  align-items: flex-start;
+  border: 1px solid #000;
+  border-color: black;
+}
 
+.list1 {
+  width: auto;
+}
+
+.list2 {
+  margin-left: 40px;
+  width: auto;
+}
 
 /*
 picture{
