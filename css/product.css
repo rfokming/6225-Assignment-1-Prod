@@ -133,6 +133,10 @@
   width: auto;
 }
 
+.layout-container1 {
+  width:100%;
+}
+
 /*
 picture{
     display: block; width: 100%; max-width: 500px;
