@@ -99,12 +99,15 @@
 }
 
 .product-header { 
+    background-image: url(../img/background-image3.png);
+    background-size: cover;
     background-color: slategray;
     text-align: center;
-    padding: 25px;
+    padding: 40px;
     font-size: 100%;
     border: darkslategrey;
     color: white;
+    
 }
 
 .places-li {
