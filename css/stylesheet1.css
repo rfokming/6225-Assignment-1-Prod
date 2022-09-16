@@ -11,6 +11,8 @@ header {
     font-size: 200%;
     border: darkslategrey;
     color: white;
+    background-image: url(../img/background-image3.png);
+    background-size: cover;
 }
 .nav_menu {
         overflow: hidden;
