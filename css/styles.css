@@ -11,6 +11,9 @@ body   {
         font-size: 200%;
         border: darkslategrey;
         color: white;
+        background-image: url(../img/background-image3.png);
+        background-size: cover;
+
     }
     .nav_menu {
             overflow: hidden;
@@ -71,16 +74,19 @@ body   {
     width: 100%;
     height: 428px;
   }
-  
-  p {
+
+
+container {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+    
+    text-align: center;
     border-style: solid;
     color: white;
     background-color: rgba(111, 150, 189, 0.953);
-    border-width:1px;
-    margin-bottom: 50px;
-    margin-bottom: 100px;
-    margin-right: 550px;
-    margin-left: 550px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
 }
