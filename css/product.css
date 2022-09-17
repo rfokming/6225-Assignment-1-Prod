@@ -125,6 +125,7 @@
   align-items: flex-start;
   border: 1px solid #000;
   border-color: black;
+  background-color: rgb(121, 226, 105);
 }
 
 .list1 {
@@ -138,6 +139,7 @@
 
 .layout-container1 {
   width:100%;
+  
 }
 
 /*
