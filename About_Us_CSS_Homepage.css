@@ -57,9 +57,9 @@ body   {
   
   .image {
     opacity: 1;
-    display: block;
-    width: 100%;
-    height: auto;
+    display: inline;
+    width: 60%;
+    height: 60%;
     transition: .5s ease;
     backface-visibility: hidden;
   }
@@ -90,6 +90,10 @@ body   {
     padding: 16px 32px;
   }
 
+  img {
+    border-radius: 50%;
+  }
+  
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
